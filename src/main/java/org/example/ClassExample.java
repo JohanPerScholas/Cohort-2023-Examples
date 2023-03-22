@@ -8,6 +8,7 @@ public class ClassExample {
         call2("Call Method 2: I'm glad to hear it!");
     }
 
+    /* IN CUSTOMER SUPPORT */
     public static void call(){
         System.out.println("Call Method: How are you?");
     }
