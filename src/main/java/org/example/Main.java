@@ -10,6 +10,8 @@ public class Main {
         String c = a.concat(b);
 
         //ADDING COMMIT FOR BRANCH EXAMPLE
+
+        // CUSTOMER SUPPORT FEATURE
         System.out.println(c);
     }
 }
