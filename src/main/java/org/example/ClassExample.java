@@ -14,6 +14,7 @@ public class ClassExample {
 
     public static void call2(String x){
         System.out.println(x);
+        /* IN MARKETING */
     }
 
 
